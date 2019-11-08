@@ -6,7 +6,8 @@
   "homepage": "https://github.com/robertoachar/playground-jest-eslint#readme",
   "keywords": [
     "node",
-    "jest"
+    "jest",
+    "eslint"
   ],
   "main": "main.js",
   "files": [
