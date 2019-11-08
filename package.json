@@ -32,7 +32,14 @@
     "@babel/core": "7.7.2",
     "@babel/preset-env": "7.7.1",
     "@types/jest": "24.0.22",
-    "jest": "24.9.0"
+    "babel-eslint": "10.0.3",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.5.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-prettier": "3.1.1",
+    "jest": "24.9.0",
+    "jest-runner-eslint": "0.7.5",
+    "prettier": "1.18.2"
   },
   "license": "MIT"
 }
