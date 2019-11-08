@@ -22,9 +22,11 @@ $ npm install
 
 - Run scripts
 
-| Action                 | Usage       |
-| ---------------------- | ----------- |
-| Start development mode | `npm start` |
+| Action               | Usage                |
+| -------------------- | -------------------- |
+| Run tests            | `yarn test`          |
+| Run tests (watch)    | `yarn test:watch`    |
+| Run tests (coverage) | `yarn test:coverage` |
 
 ## Author
 
