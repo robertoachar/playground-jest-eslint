@@ -1,0 +1,29 @@
+{
+  "name": "playground-jest-eslint",
+  "version": "1.0.0",
+  "description": "A playground for Jest and ESLint.",
+  "author": "Roberto Achar <robertoachar@gmail.com>",
+  "homepage": "https://github.com/robertoachar/playground-jest-eslint#readme",
+  "keywords": [
+    "node"
+  ],
+  "main": "main.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertoachar/playground-jest-eslint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertoachar/playground-jest-eslint/issues"
+  },
+  "dependencies": {
+    "esm": "3.2.25"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
